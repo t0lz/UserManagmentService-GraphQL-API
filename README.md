@@ -1,1 +1,0 @@
-# UserManagmentService-GraphQL-API
